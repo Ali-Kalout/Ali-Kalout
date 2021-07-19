@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ali-Kalout's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kalout)](https://github.com/Ali-Kalout/github-readme-stats)
+[![Ali-Kalout's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kalout&theme=dark&show_icons=true)](https://github.com/Ali-Kalout/github-readme-stats)
 
 
 <!--
